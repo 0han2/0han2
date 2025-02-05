@@ -1,4 +1,15 @@
-## Hi, I'm 영한 a Data Analyst
+## Hi, I'm Younghan, a Data Analyst who strives to maximize efficiency.
+### I constantly ask 'why?' when analyzing data, seeking insights and driving results.
+
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+I don’t just solve the current problems but **always think ahead**, looking for ways to make even simple tasks more **efficient**.  
+
+When errors or problems arise, I tackle them with **persistence**, carefully analyzing the issues to **understand** them fully, and then logically solving them.  
+
+I am committed to constant improvement, never satisfied with the status quo, and always striving to grow by **continuously studying** and **advancing**.
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```python
 
@@ -33,7 +44,5 @@ class Younghan:
 if __name__ == '__main__':
     me = Younghan()
     print(me)
-
-
 ```
 
