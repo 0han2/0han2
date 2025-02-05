@@ -10,8 +10,8 @@ class Younghan:
         self.position = 'Data Analyst'
         self.email = 'dudgks011@gmail.com'
         self.phone = '010-5912-1394'
-        self.blog = '[Blog](https://velog.io/@0han/posts)'
-        self.portfolio = '[Portfolio](https://buly.kr/8petJAh)'
+        self.blog = [Blog](https://velog.io/@0han/posts)
+        self.portfolio = [Portfolio](https://buly.kr/8petJAh)
         self.code = {
             'data_handling': {'Expert': ['Pandas', 'Numpy']},
             'data_visualization': {'Proficient': ['Matplotlib', 'Seaborn', 'Tableau', 'Looker Studio']},
